@@ -1,0 +1,201 @@
+customer_id,date,product_category,product_name,unit_price,quantity,total_spend,region,payment_method
+CUST-0118,2024-01-02,Stationery,Notebook Set,8.99,2,17.98,North West,Voucher
+CUST-0096,2024-01-03,Stationery,Notebook Set,8.99,3,26.97,Midlands,Credit Card
+CUST-0053,2024-01-04,Furniture,Footrest,29.99,1,29.99,South East,Debit Card
+CUST-0117,2024-01-05,Software,Cloud Storage (1yr),49.99,2,99.98,Wales,Debit Card
+CUST-0031,2024-01-07,Electronics,Webcam,49.99,1,49.99,London,Voucher
+CUST-0195,2024-01-08,Electronics,USB Hub,24.99,3,74.97,Midlands,Bank Transfer
+CUST-0126,2024-01-09,Furniture,Desk Lamp,34.5,1,34.5,London,Credit Card
+CUST-0020,2024-01-11,Furniture,Cable Tray,18.99,3,56.97,Yorkshire,Credit Card
+CUST-0018,2024-01-14,Furniture,Desk Lamp,34.5,1,34.5,South West,PayPal
+CUST-0041,2024-01-14,Software,Antivirus (1yr),29.99,1,29.99,Yorkshire,Debit Card
+CUST-0130,2024-01-14,Software,Password Manager,24.99,3,74.97,North West,PayPal
+CUST-0008,2024-01-15,Furniture,Desk Lamp,34.5,1,34.5,North West,PayPal
+CUST-0060,2024-01-17,Furniture,Desk Lamp,34.5,2,69.0,Scotland,Credit Card
+CUST-0115,2024-01-19,Furniture,Footrest,29.99,5,149.95,South West,PayPal
+CUST-0181,2024-01-19,Electronics,USB Hub,24.99,2,49.98,North West,Debit Card
+CUST-0044,2024-01-20,Stationery,Highlighters,5.99,1,5.99,South West,PayPal
+CUST-0054,2024-01-20,Electronics,Webcam,49.99,1,49.99,South West,PayPal
+CUST-0172,2024-01-21,Furniture,Desk Lamp,34.5,3,103.5,Midlands,Debit Card
+CUST-0084,2024-01-23,Stationery,Sticky Notes,3.49,1,3.49,London,Credit Card
+CUST-0095,2024-01-23,Electronics,Keyboard,34.99,1,34.99,Wales,Credit Card
+CUST-0200,2024-01-23,Electronics,Webcam,49.99,3,149.97,North West,Credit Card
+CUST-0002,2024-01-24,Furniture,Cable Tray,18.99,2,37.98,South East,Bank Transfer
+CUST-0046,2024-01-24,Electronics,Monitor Stand,39.99,2,79.98,North West,Debit Card
+CUST-0063,2024-01-25,Furniture,Footrest,29.99,1,29.99,Wales,Credit Card
+CUST-0033,2024-01-27,Software,PDF Editor,59.99,3,179.97,Midlands,Debit Card
+CUST-0064,2024-01-27,Software,Password Manager,24.99,1,24.99,North West,Credit Card
+CUST-0098,2024-01-30,Furniture,Ergonomic Chair,189.99,5,949.95,Yorkshire,Credit Card
+CUST-0163,2024-01-30,Electronics,Monitor Stand,39.99,1,39.99,Yorkshire,Credit Card
+CUST-0080,2024-02-02,Electronics,Webcam,49.99,2,99.98,Wales,Debit Card
+CUST-0143,2024-02-02,Software,Password Manager,24.99,5,124.95,London,Credit Card
+CUST-0175,2024-02-02,Electronics,USB Hub,24.99,2,49.98,South East,PayPal
+CUST-0034,2024-02-03,Stationery,Sticky Notes,3.49,4,13.96,Scotland,Debit Card
+CUST-0014,2024-02-04,Stationery,Highlighters,5.99,5,29.95,South East,Credit Card
+CUST-0111,2024-02-04,Furniture,Ergonomic Chair,189.99,2,379.98,Midlands,Credit Card
+CUST-0190,2024-02-06,Software,Password Manager,24.99,4,99.96,North West,Debit Card
+CUST-0011,2024-02-07,Furniture,Footrest,29.99,1,29.99,South West,Credit Card
+CUST-0015,2024-02-07,Furniture,Desk Lamp,34.5,10,345.0,Scotland,Credit Card
+CUST-0072,2024-02-07,Electronics,Keyboard,34.99,1,34.99,South West,Bank Transfer
+CUST-0138,2024-02-07,Software,Password Manager,24.99,1,24.99,North West,Voucher
+CUST-0094,2024-02-08,Electronics,Webcam,49.99,3,149.97,Scotland,Debit Card
+CUST-0097,2024-02-08,Furniture,Monitor Riser,44.99,1,44.99,Yorkshire,Credit Card
+CUST-0199,2024-02-08,Stationery,Highlighters,5.99,2,11.98,Midlands,PayPal
+CUST-0184,2024-02-10,Software,VPN Licence,39.99,2,79.98,Wales,Voucher
+CUST-0089,2024-02-11,Furniture,Ergonomic Chair,189.99,1,189.99,South East,Credit Card
+CUST-0051,2024-02-12,Stationery,Sticky Notes,3.49,1,3.49,South West,Debit Card
+CUST-0102,2024-02-12,Furniture,Footrest,29.99,1,29.99,Midlands,Credit Card
+CUST-0010,2024-02-14,Software,PDF Editor,59.99,1,59.99,Scotland,Debit Card
+CUST-0035,2024-02-16,Furniture,Monitor Riser,44.99,1,44.99,Wales,Debit Card
+CUST-0176,2024-02-17,Stationery,Ballpoint Pens,4.99,1,4.99,Scotland,PayPal
+CUST-0069,2024-02-18,Furniture,Monitor Riser,44.99,1,44.99,Midlands,Credit Card
+CUST-0043,2024-02-19,Electronics,Keyboard,34.99,1,34.99,Midlands,PayPal
+CUST-0027,2024-02-20,Stationery,Desk Organiser,19.99,3,59.97,Yorkshire,Debit Card
+CUST-0191,2024-02-20,Stationery,Notebook Set,8.99,3,26.97,South East,Debit Card
+CUST-0168,2024-02-21,Furniture,Cable Tray,18.99,1,18.99,South East,Credit Card
+CUST-0108,2024-02-23,Furniture,Desk Lamp,34.5,1,34.5,South East,Bank Transfer
+CUST-0016,2024-02-24,Furniture,Cable Tray,18.99,3,56.97,Midlands,Credit Card
+CUST-0196,2024-02-24,Stationery,Highlighters,5.99,2,11.98,London,Credit Card
+CUST-0127,2024-02-27,Furniture,Monitor Riser,44.99,1,44.99,South West,Debit Card
+CUST-0093,2024-02-29,Furniture,Footrest,29.99,2,59.98,Yorkshire,Debit Card
+CUST-0134,2024-02-29,Furniture,Ergonomic Chair,189.99,1,189.99,London,Credit Card
+CUST-0166,2024-02-29,Furniture,Footrest,29.99,1,29.99,Yorkshire,Bank Transfer
+CUST-0047,2024-03-01,Stationery,Desk Organiser,19.99,3,59.97,South West,PayPal
+CUST-0050,2024-03-02,Software,Password Manager,24.99,4,99.96,South East,Bank Transfer
+CUST-0174,2024-03-02,Software,Antivirus (1yr),29.99,1,29.99,Scotland,PayPal
+CUST-0073,2024-03-04,Stationery,Notebook Set,8.99,1,8.99,North West,Credit Card
+CUST-0077,2024-03-04,Electronics,Wireless Mouse,9.99,1,9.99,South West,Debit Card
+CUST-0065,2024-03-05,Stationery,Desk Organiser,19.99,1,19.99,South East,Credit Card
+CUST-0162,2024-03-05,Furniture,Desk Lamp,34.5,1,34.5,Midlands,Debit Card
+CUST-0169,2024-03-05,Electronics,Wireless Mouse,9.99,1,9.99,South East,Credit Card
+CUST-0030,2024-03-09,Software,PDF Editor,59.99,2,119.98,Midlands,Credit Card
+CUST-0124,2024-03-09,Stationery,Highlighters,5.99,1,5.99,South East,Debit Card
+CUST-0128,2024-03-09,Furniture,Desk Lamp,34.5,1,34.5,Wales,Debit Card
+CUST-0147,2024-03-09,Software,VPN Licence,39.99,4,159.96,South West,Bank Transfer
+CUST-0170,2024-03-10,Furniture,Monitor Riser,44.99,1,44.99,Scotland,Debit Card
+CUST-0078,2024-03-11,Furniture,Footrest,29.99,2,59.98,Yorkshire,Debit Card
+CUST-0122,2024-03-14,Furniture,Desk Lamp,34.5,3,103.5,London,PayPal
+CUST-0150,2024-03-14,Furniture,Monitor Riser,44.99,1,44.99,Wales,Credit Card
+CUST-0042,2024-03-16,Stationery,Sticky Notes,3.49,1,3.49,Scotland,Credit Card
+CUST-0110,2024-03-16,Furniture,Cable Tray,18.99,4,75.96,North West,PayPal
+CUST-0140,2024-03-18,Software,Password Manager,24.99,2,49.98,South East,Debit Card
+CUST-0114,2024-03-19,Stationery,Highlighters,5.99,10,59.9,North West,Debit Card
+CUST-0151,2024-03-19,Software,PDF Editor,59.99,1,59.99,London,Credit Card
+CUST-0029,2024-03-21,Stationery,Highlighters,5.99,3,17.97,Wales,Bank Transfer
+CUST-0159,2024-03-22,Stationery,Sticky Notes,3.49,1,3.49,North West,Credit Card
+CUST-0104,2024-03-23,Furniture,Monitor Riser,44.99,1,44.99,South West,PayPal
+CUST-0067,2024-03-24,Furniture,Cable Tray,18.99,1,18.99,London,Bank Transfer
+CUST-0081,2024-03-24,Stationery,Highlighters,5.99,3,17.97,South East,Bank Transfer
+CUST-0085,2024-03-24,Stationery,Ballpoint Pens,4.99,3,14.97,South East,Credit Card
+CUST-0157,2024-03-24,Stationery,Ballpoint Pens,4.99,1,4.99,North West,Debit Card
+CUST-0099,2024-03-27,Electronics,Keyboard,34.99,2,69.98,Midlands,Debit Card
+CUST-0005,2024-03-28,Electronics,Monitor Stand,39.99,3,119.97,South East,Debit Card
+CUST-0026,2024-03-28,Stationery,Desk Organiser,19.99,1,19.99,South West,PayPal
+CUST-0148,2024-03-28,Stationery,Desk Organiser,19.99,1,19.99,Wales,Credit Card
+CUST-0074,2024-03-29,Furniture,Ergonomic Chair,189.99,2,379.98,Scotland,Credit Card
+CUST-0185,2024-03-29,Furniture,Desk Lamp,34.5,1,34.5,Midlands,Credit Card
+CUST-0028,2024-03-30,Software,Antivirus (1yr),29.99,1,29.99,Yorkshire,Credit Card
+CUST-0113,2024-03-30,Electronics,Keyboard,34.99,1,34.99,South East,Debit Card
+CUST-0017,2024-04-03,Stationery,Notebook Set,8.99,2,17.98,London,Debit Card
+CUST-0070,2024-04-04,Electronics,USB Hub,24.99,1,24.99,North West,PayPal
+CUST-0189,2024-04-04,Electronics,Keyboard,34.99,3,104.97,Midlands,Debit Card
+CUST-0109,2024-04-05,Software,VPN Licence,39.99,2,79.98,South East,Debit Card
+CUST-0004,2024-04-06,Software,Cloud Storage (1yr),49.99,1,49.99,North West,PayPal
+CUST-0153,2024-04-06,Electronics,USB Hub,24.99,1,24.99,South West,Debit Card
+CUST-0197,2024-04-08,Software,VPN Licence,39.99,5,199.95,London,Credit Card
+CUST-0088,2024-04-09,Electronics,Wireless Mouse,9.99,1,9.99,Midlands,Credit Card
+CUST-0164,2024-04-09,Furniture,Desk Lamp,34.5,10,345.0,Yorkshire,Credit Card
+CUST-0090,2024-04-11,Stationery,Desk Organiser,19.99,2,39.98,Yorkshire,PayPal
+CUST-0082,2024-04-12,Stationery,Notebook Set,8.99,2,17.98,Midlands,Debit Card
+CUST-0019,2024-04-13,Software,PDF Editor,59.99,4,239.96,South East,Credit Card
+CUST-0001,2024-04-14,Software,Cloud Storage (1yr),49.99,2,99.98,Yorkshire,Credit Card
+CUST-0006,2024-04-14,Electronics,Webcam,49.99,2,99.98,Scotland,Credit Card
+CUST-0012,2024-04-14,Stationery,Notebook Set,8.99,2,17.98,Wales,Credit Card
+CUST-0013,2024-04-14,Stationery,Desk Organiser,19.99,5,99.95,Wales,Bank Transfer
+CUST-0112,2024-04-16,Stationery,Desk Organiser,19.99,1,19.99,Scotland,Credit Card
+CUST-0125,2024-04-16,Furniture,Footrest,29.99,1,29.99,London,Debit Card
+CUST-0032,2024-04-17,Furniture,Monitor Riser,44.99,10,449.9,Midlands,Credit Card
+CUST-0023,2024-04-18,Furniture,Ergonomic Chair,189.99,2,379.98,South West,PayPal
+CUST-0057,2024-04-18,Stationery,Ballpoint Pens,4.99,2,9.98,London,Credit Card
+CUST-0182,2024-04-18,Furniture,Ergonomic Chair,189.99,1,189.99,North West,PayPal
+CUST-0132,2024-04-19,Furniture,Monitor Riser,44.99,10,449.9,South East,Credit Card
+CUST-0107,2024-04-20,Software,VPN Licence,39.99,2,79.98,Scotland,Credit Card
+CUST-0165,2024-04-20,Software,VPN Licence,39.99,2,79.98,Yorkshire,Debit Card
+CUST-0171,2024-04-20,Stationery,Sticky Notes,3.49,1,3.49,Wales,Credit Card
+CUST-0086,2024-04-21,Furniture,Desk Lamp,34.5,4,138.0,Midlands,Voucher
+CUST-0119,2024-04-21,Stationery,Ballpoint Pens,4.99,10,49.9,Wales,Credit Card
+CUST-0048,2024-04-22,Stationery,Desk Organiser,19.99,1,19.99,South East,Credit Card
+CUST-0068,2024-04-22,Electronics,Webcam,49.99,1,49.99,London,PayPal
+CUST-0075,2024-04-22,Electronics,Webcam,49.99,2,99.98,Scotland,PayPal
+CUST-0142,2024-04-22,Furniture,Ergonomic Chair,189.99,3,569.97,North West,Bank Transfer
+CUST-0009,2024-04-24,Stationery,Highlighters,5.99,3,17.97,London,Credit Card
+CUST-0079,2024-04-24,Electronics,Monitor Stand,39.99,3,119.97,South East,PayPal
+CUST-0139,2024-04-24,Software,Cloud Storage (1yr),49.99,2,99.98,Wales,Debit Card
+CUST-0092,2024-04-28,Furniture,Desk Lamp,34.5,1,34.5,North West,PayPal
+CUST-0131,2024-04-30,Stationery,Highlighters,5.99,1,5.99,Scotland,Voucher
+CUST-0167,2024-04-30,Stationery,Notebook Set,8.99,2,17.98,London,Credit Card
+CUST-0135,2024-05-01,Software,Cloud Storage (1yr),49.99,3,149.97,Midlands,Debit Card
+CUST-0161,2024-05-01,Stationery,Notebook Set,8.99,1,8.99,South West,Debit Card
+CUST-0180,2024-05-03,Stationery,Highlighters,5.99,2,11.98,South East,Bank Transfer
+CUST-0129,2024-05-04,Furniture,Desk Lamp,34.5,1,34.5,North West,PayPal
+CUST-0156,2024-05-04,Electronics,Wireless Mouse,9.99,3,29.97,South East,Credit Card
+CUST-0003,2024-05-06,Stationery,Sticky Notes,3.49,3,10.47,Yorkshire,PayPal
+CUST-0083,2024-05-06,Furniture,Footrest,29.99,1,29.99,London,Credit Card
+CUST-0091,2024-05-09,Furniture,Cable Tray,18.99,1,18.99,Midlands,Debit Card
+CUST-0136,2024-05-10,Electronics,USB Hub,24.99,3,74.97,Scotland,Debit Card
+CUST-0038,2024-05-14,Electronics,Wireless Mouse,9.99,1,9.99,Wales,Credit Card
+CUST-0193,2024-05-14,Software,Antivirus (1yr),29.99,2,59.98,Wales,Debit Card
+CUST-0066,2024-05-15,Stationery,Sticky Notes,3.49,1,3.49,South East,Credit Card
+CUST-0071,2024-05-16,Furniture,Desk Lamp,34.5,2,69.0,London,Debit Card
+CUST-0007,2024-05-17,Electronics,Keyboard,34.99,2,69.98,Yorkshire,Debit Card
+CUST-0024,2024-05-17,Stationery,Desk Organiser,19.99,2,39.98,Midlands,Debit Card
+CUST-0045,2024-05-17,Electronics,Wireless Mouse,9.99,3,29.97,North West,Credit Card
+CUST-0116,2024-05-18,Electronics,Wireless Mouse,9.99,1,9.99,Yorkshire,PayPal
+CUST-0178,2024-05-18,Electronics,Monitor Stand,39.99,2,79.98,Wales,Debit Card
+CUST-0056,2024-05-21,Stationery,Notebook Set,8.99,3,26.97,Midlands,PayPal
+CUST-0158,2024-05-24,Software,Cloud Storage (1yr),49.99,4,199.96,London,Bank Transfer
+CUST-0059,2024-05-25,Electronics,USB Hub,24.99,1,24.99,North West,Debit Card
+CUST-0121,2024-05-26,Software,VPN Licence,39.99,5,199.95,Wales,PayPal
+CUST-0123,2024-05-28,Furniture,Footrest,29.99,4,119.96,Scotland,Voucher
+CUST-0179,2024-05-28,Furniture,Footrest,29.99,2,59.98,Wales,Debit Card
+CUST-0149,2024-05-29,Electronics,USB Hub,24.99,3,74.97,Scotland,Bank Transfer
+CUST-0160,2024-05-29,Electronics,Wireless Mouse,9.99,1,9.99,Midlands,Voucher
+CUST-0040,2024-05-30,Furniture,Cable Tray,18.99,1,18.99,North West,Debit Card
+CUST-0052,2024-05-30,Software,Antivirus (1yr),29.99,1,29.99,North West,Credit Card
+CUST-0062,2024-05-31,Stationery,Desk Organiser,19.99,2,39.98,Wales,Bank Transfer
+CUST-0144,2024-05-31,Stationery,Ballpoint Pens,4.99,5,24.95,Midlands,Credit Card
+CUST-0177,2024-05-31,Furniture,Ergonomic Chair,189.99,3,569.97,Yorkshire,PayPal
+CUST-0194,2024-05-31,Furniture,Desk Lamp,34.5,1,34.5,South East,PayPal
+CUST-0198,2024-05-31,Electronics,Wireless Mouse,9.99,1,9.99,Scotland,PayPal
+CUST-0183,2024-06-03,Electronics,Wireless Mouse,9.99,2,19.98,Midlands,Debit Card
+CUST-0146,2024-06-04,Stationery,Ballpoint Pens,4.99,2,9.98,London,Credit Card
+CUST-0152,2024-06-04,Electronics,Webcam,49.99,1,49.99,London,Voucher
+CUST-0155,2024-06-04,Stationery,Desk Organiser,19.99,4,79.96,South East,Credit Card
+CUST-0103,2024-06-05,Furniture,Desk Lamp,34.5,1,34.5,London,Credit Card
+CUST-0120,2024-06-05,Electronics,Wireless Mouse,9.99,1,9.99,London,PayPal
+CUST-0192,2024-06-05,Software,VPN Licence,39.99,3,119.97,Scotland,PayPal
+CUST-0186,2024-06-06,Electronics,Keyboard,34.99,3,104.97,North West,Debit Card
+CUST-0100,2024-06-07,Furniture,Desk Lamp,34.5,1,34.5,London,PayPal
+CUST-0188,2024-06-09,Furniture,Ergonomic Chair,189.99,2,379.98,Midlands,Credit Card
+CUST-0037,2024-06-10,Software,Cloud Storage (1yr),49.99,10,499.9,Yorkshire,Voucher
+CUST-0133,2024-06-10,Stationery,Sticky Notes,3.49,1,3.49,Yorkshire,PayPal
+CUST-0106,2024-06-12,Stationery,Notebook Set,8.99,1,8.99,South East,Debit Card
+CUST-0173,2024-06-13,Stationery,Ballpoint Pens,4.99,1,4.99,South West,PayPal
+CUST-0049,2024-06-14,Electronics,USB Hub,24.99,1,24.99,South East,PayPal
+CUST-0061,2024-06-14,Electronics,Monitor Stand,39.99,1,39.99,Wales,Credit Card
+CUST-0137,2024-06-14,Software,VPN Licence,39.99,1,39.99,North West,Debit Card
+CUST-0058,2024-06-15,Furniture,Desk Lamp,34.5,4,138.0,South East,Debit Card
+CUST-0076,2024-06-15,Furniture,Monitor Riser,44.99,3,134.97,South East,Credit Card
+CUST-0187,2024-06-15,Furniture,Cable Tray,18.99,5,94.95,North West,Credit Card
+CUST-0021,2024-06-17,Stationery,Desk Organiser,19.99,1,19.99,South West,Credit Card
+CUST-0039,2024-06-17,Electronics,Monitor Stand,39.99,3,119.97,Midlands,Debit Card
+CUST-0025,2024-06-18,Stationery,Desk Organiser,19.99,1,19.99,Wales,Credit Card
+CUST-0055,2024-06-19,Furniture,Ergonomic Chair,189.99,1,189.99,Midlands,Debit Card
+CUST-0022,2024-06-22,Stationery,Sticky Notes,3.49,1,3.49,South East,Bank Transfer
+CUST-0141,2024-06-22,Software,Cloud Storage (1yr),49.99,1,49.99,Wales,Credit Card
+CUST-0154,2024-06-22,Furniture,Monitor Riser,44.99,5,224.95,Midlands,Debit Card
+CUST-0105,2024-06-26,Electronics,Monitor Stand,39.99,1,39.99,South West,Debit Card
+CUST-0101,2024-06-28,Stationery,Ballpoint Pens,4.99,4,19.96,Scotland,PayPal
+CUST-0036,2024-06-29,Software,Cloud Storage (1yr),49.99,4,199.96,Wales,Debit Card
+CUST-0087,2024-06-30,Software,Antivirus (1yr),29.99,1,29.99,North West,PayPal
+CUST-0145,2024-06-30,Electronics,Wireless Mouse,9.99,3,29.97,London,Credit Card
