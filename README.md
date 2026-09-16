@@ -82,4 +82,4 @@ For  module-related questions, please use the appropriate Canvas discussion area
 
 ## Licence
 
-The materials in this repository are made available under the MIT License unless otherwise stated.
+The materials in this repository are the property of Liverpool John Moores University and cannot be reused or redistributed without permission.
