@@ -1,0 +1,117 @@
+employee_id,department,office,start_date,salary,hours_per_week,performance_rating
+E1014, Sales,Birmingham,2018-10-12,"£32,750",37.5,3
+E1003,Logistics ,Birmingham,2015-11-25,"£24,000",,2
+E1026,Finance,Manchester,2020-07-13,"£44,500",22.5,5
+E1017,Customer Service,Leeds,2021-10-12,"£23,250",37.5,4
+E1020,Finance,Birmingham,2024-08-30,"£30,250",37.5,3
+E1080,Sales,Glasgow,2021-09-09,"£31,750",37.5,3
+E1006,CUSTOMER SERVICE,Leeds,2021-05-15,"£23,250",16.0,4
+E1025,Operations,Leeds,2018-01-30,"£27,750",37.5,3
+E1042,Sales,Glasgow,2021-12-03,"£26,250",16.0,4
+E1021,Operations,Leeds,2016-06-11,"£29,500",375.0,4
+E1065,Logistics ,Leeds,2023-05-23,"£27,500",30.0,4
+E1077,Customer Service,Leeds,2017-07-01,"£24,500",16.0,4
+E1035,Sales,Leeds,2017-06-26,"£27,750",37.5,3
+E1097,Operations ,London,2014-08-29,"£34,000",16.0,3
+E1075,customer service,Glasgow,2019-11-07,"£24,750",37.5,3
+E1035,Sales,Leeds,2017-06-26,"£27,750",37.5,3
+E1011,OPERATIONS,Manchester,2015-12-12,"£28,250",22.5,3
+E1013,Sales,Leeds,2016-08-31,"£26,250",37.5,5
+E1110,Operations,Leeds,2014-07-02,"£31,750",22.5,3
+E1027,Finance,,2022-12-22,"£34,000",37.5,2
+E1070,Logistics,Manchester,2021-03-14,"£22,750",37.5,4
+E1048,Sales,Glasgow,2017-04-29,"£32,000",37.5,5
+E1062,Sales,Manchester,2014-04-03,"£28,750",37.5,3
+E1083,Sales,Leeds,2015-10-13,"£33,750",37.5,4
+E1094,Sales,Glasgow,2022-08-16,"£30,000",16.0,3
+E1036,Sales,London,2023-08-23,"£28,250",37.5,4
+E1091,Sales,,2020-07-30,"£28,000",37.5,3
+E1087, Operations,Birmingham,2019-05-27,"£32,500",37.5,3
+E1054,Customer Service,Manchester,2014-09-05,"£23,500",22.5,3
+E1090,Operations,London,2022-03-17,"£26,500",16.0,4
+E1061,Customer Service,Manchester,2022-04-01,"£24,750",16.0,5
+E1030,Finance,London,2018-01-10,"£41,750",37.5,4
+E1055,Logistics,Glasgow,2024-02-26,"£23,000",37.5,3
+E1015,Customer Service,Leeds,2024-08-27,"£21,750",37.5,3
+E1071,Operations,London,2021-03-06,"£27,000",37.5,3
+E1032,Sales,London,2016-06-24,"£32,500",22.5,2
+E1062,Sales,Manchester,2014-04-03,"£28,750",37.5,3
+E1064,customer service,London,2024-05-16,"£26,250",37.5,4
+E1005,marketing,Leeds,2017-02-14,"£39,750",37.5,2
+E1084, Logistics,Glasgow,2017-02-21,"£27,500",37.5,5
+E1076,Marketing,,2021-02-23,"£33,500",37.5,2
+E1082,Finance,London,2016-05-03,"£37,500",,3
+E1099,Logistics,Birmingham,2019-09-12,"£23,750",37.5,4
+E1038,LOGISTICS,Glasgow,2017-09-09,"£27,250",37.5,3
+E1085,Sales,Leeds,2019-03-11,"£24,250",37.5,5
+E1044,Operations,London,2018-01-08,"£29,500",37.5,3
+E1028,Marketing,London,2016-05-04,"£41,250",37.5,3
+E1101,marketing,Glasgow,2021-08-02,"£34,750",37.5,4
+E1016,Customer Service,Glasgow,2024-01-30,"£26,750",37.5,3
+E1086,Logistics,Glasgow,2020-02-24,"£25,000",37.5,2
+E1092,Sales,Manchester,2014-11-26,"£31,750",37.5,4
+E1069,Operations,London,2016-02-12,"£34,500",,5
+E1052,CUSTOMER SERVICE,London,2024-07-10,"£24,250",37.5,3
+E1019,Sales,Birmingham,2014-09-12,"£33,000",37.5,4
+E1108,Operations,,2023-03-31,"£24,000",16.0,2
+E1008,Customer Service,Glasgow,2015-01-27,"£21,500",30.0,4
+E1079,logistics,Birmingham,2017-12-30,"£23,750",30.0,3
+E1078,Sales,,2017-01-07,"£28,500",37.5,4
+E1040,Sales,Manchester,2021-08-19,"£33,500",37.5,5
+E1007,Customer Service,Manchester,2017-11-10,"£26,000",37.5,3
+E1072,Customer Service,Manchester,2014-10-09,"£25,750",37.5,3
+E1089,Marketing,London,2018-02-02,"£42,000",37.5,3
+E1068,sales,Leeds,2015-05-17,"£33,750",,2
+E1012,Operations,London,2018-03-28,"£33,000",37.5,2
+E1066, Sales,Birmingham,2021-06-23,"£33,500",30.0,5
+E1063,Finance,Leeds,2016-01-30,"£31,750",,3
+E1023,Marketing,Manchester,2020-06-22,"£28,000",37.5,3
+E1024,OPERATIONS,London,2022-08-24,"£26,000",37.5,4
+E1049,SALES,Manchester,2018-02-15,"£30,250",37.5,3
+E1060,sales,Glasgow,2020-09-06,"£27,250",22.5,1
+E1018,Operations,Manchester,2017-09-30,"£31,000",22.5,3
+E1100,Marketing,Leeds,2023-10-31,"£35,500",37.5,2
+E1102,Marketing,Manchester,2018-03-18,"£39,250",30.0,2
+E1096,Finance,Birmingham,2014-06-05,"£40,250",37.5,1
+E1029,Operations,London,2021-06-09,"£30,250",37.5,4
+E1081,Sales,Birmingham,2015-03-05,"£28,000",37.5,2
+E1034,Logistics,London,2022-12-27,"£25,500",30.0,5
+E1046,Logistics,Glasgow,2023-08-01,"£29,250",37.5,4
+E1043,Marketing,Glasgow,2023-09-06,"£28,000",37.5,5
+E1041,Operations,Manchester,2018-03-07,"£33,000",16.0,4
+E1033,Operations,Manchester,2023-10-07,"£26,500",37.5,3
+E1107,Sales,Manchester,2019-07-21,"£33,500",37.5,3
+E1066, Sales,Birmingham,2021-06-23,"£33,500",30.0,5
+E1050,Sales,Birmingham,2020-07-30,"£31,750",37.5,3
+E1009,Sales,Manchester,2016-08-20,"£28,000",37.5,2
+E1031,Customer Service,Manchester,2020-09-19,"£23,500",37.5,4
+E1060,sales,Glasgow,2020-09-06,"£27,250",22.5,1
+E1067,Operations,Leeds,2015-06-12,"£29,250",37.5,5
+E1057, Finance,Manchester,2024-05-17,"£47,750",37.5,3
+E1098,Logistics,London,2018-11-05,"£25,750",400.0,5
+E1074, Sales,,2017-06-30,"£31,000",37.5,3
+E1093, Finance,Leeds,2020-09-11,"£36,500",37.5,3
+E1022,Marketing ,London,2019-08-21,"£36,250",30.0,4
+E1103,Sales,Birmingham,2017-12-19,"£25,000",37.5,3
+E1001, Operations,Glasgow,2024-07-04,"£27,500",30.0,4
+E1004,Sales,London,2022-08-01,"£28,250",37.5,4
+E1053,Customer Service,Glasgow,2015-08-26,"£22,000",37.5,4
+E1039,Operations,,2016-11-11,"£30,500",37.5,3
+E1045,Sales,London,2022-11-05,"£28,750",37.5,3
+E1109,Customer Service,Glasgow,2022-11-20,"£24,500",37.5,2
+E1037,Finance,London,2017-05-25,"£40,750",37.5,4
+E1058,Sales,Birmingham,2017-06-11,"£28,750",22.5,5
+E1106,Finance,Glasgow,2015-04-15,"£35,250",37.5,2
+E1088,Sales,Birmingham,2017-01-10,"£29,500",37.5,2
+E1095,Marketing,London,2015-11-18,"£32,500",22.5,4
+E1104,Customer Service,London,2017-11-19,"£30,000",22.5,3
+E1059,Operations,Manchester,2014-12-14,"£27,250",37.5,3
+E1010,Finance,Birmingham,2017-09-10,"£33,250",16.0,4
+E1051, Customer Service,London,2020-01-18,"£26,500",30.0,2
+E1073,Sales,London,2020-05-15,"£37,500",37.5,2
+E1088,Sales,Birmingham,2017-01-10,"£29,500",37.5,2
+E1105,Customer Service,Birmingham,2022-07-18,"£24,250",30.0,4
+E1002,Marketing,Manchester,2024-03-21,"£27,500",22.5,2
+E1070,Logistics,Manchester,2021-03-14,"£22,750",37.5,4
+E1056,Finance,Leeds,2014-08-10,"£41,000",37.5,3
+E1047,Logistics,London,2021-12-26,"£27,500",37.5,3

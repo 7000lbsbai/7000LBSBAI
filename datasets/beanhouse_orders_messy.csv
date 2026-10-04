@@ -1,0 +1,70 @@
+order_id,date,branch,item,category,price,quantity,payment_method
+B004,2024-03-04,UNIVERSITY,Bottled Water,Cold drinks,£1.50,1.0,Cash
+B007,2024-03-04,University,Tea,Hot drinks,£2.20,2.0,Card
+B009,2024-03-04,UNIVERSITY,Muffin,Food,£2.90,2.0,Cash
+B017,2024-03-04,City Centre,Flat White,Hot drinks,£3.50,1.0,Card
+B027,2024-03-04,City Centre,Smoothie,Cold drinks,£4.20,2.0,Cash
+B028,2024-03-04,City Centre,Americano,Hot drinks,£2.80,2.0,App
+B045,2024-03-04,City Centre,Cappuccino,Hot drinks,£3.30,1.0,Card
+B050,2024-03-04,city centre,Bottled Water,Cold drinks,£1.50,2.0,App
+B006,2024-03-05,CITY CENTRE,Bottled Water,Cold drinks,£1.50,2.0,Card
+B016,2024-03-05,STATION,Latte,Hot drinks,£3.40,1.0,Card
+B019,2024-03-05,City Centre,Smoothie,Cold drinks,£4.20,1.0,Card
+B024,2024-03-05,City Centre,Latte,Hot drinks,£3.40,1.0,App
+B025,2024-03-05,University,Hot Chocolate,Hot drinks,£3.20,4.0,
+B029,2024-03-05,University,Tea,Hot drinks,£2.20,1.0,
+B029,2024-03-05,University,Tea,Hot drinks,£2.20,1.0,
+B043,2024-03-05,university,Americano,Hot drinks,£2.80,1.0,Card
+B058,2024-03-05,City Centre,Smoothie,Cold drinks,£4.20,1.0,Card
+B058,2024-03-05,City Centre,Smoothie,Cold drinks,£4.20,1.0,Card
+B005,2024-03-06,City Centre,Cappuccino,Hot drinks,£3.30,2.0,App
+B012,2024-03-06,University,Smoothie,Cold drinks,£4.20,2.0,App
+B013,2024-03-06,University,Latte,Hot drinks,£3.40,2.0,Card
+B015,2024-03-06,City Centre,Tea,Hot drinks,£2.20,2.0,Card
+B034,2024-03-06,University,Flat White,Hot drinks,£3.50,6.0,App
+B036,2024-03-06,City Centre,Smoothie,Cold drinks,£4.20,1.0,
+B061,2024-03-06,Station,Latte,Hot drinks,£3.40,,Card
+B001,2024-03-07,University,Cappuccino,Hot drinks,£3.30,1.0,Card
+B003,2024-03-07,City Centre,Hot Chocolate,Hot drinks,£3.20,2.0,Cash
+B003,2024-03-07,City Centre,Hot Chocolate,Hot drinks,£3.20,2.0,Cash
+B008,2024-03-07,University,Americano,Hot drinks,£2.80,2.0,Card
+B011,2024-03-07,City Centre ,Muffin,Food,£2.90,6.0,
+B023,2024-03-07,City Centre,Toastie,Food,£5.50,1.0,App
+B056,2024-03-07,City Centre,Flat White,Hot drinks,£3.50,2.0,Card
+B059,2024-03-07,Station,Iced Latte,Cold drinks,£3.70,1.0,App
+B060,2024-03-07,Station,Tea,Hot drinks,£2.20,1.0,Card
+B002,2024-03-08,city centre,Latte,Hot drinks,£3.40,1.0,Card
+B010,2024-03-08,Station,Smoothie,Cold drinks,£4.20,1.0,Card
+B014,2024-03-08,Station,Bottled Water,Cold drinks,£1.50,3.0,Card
+B021,2024-03-08,University,Americano,Hot drinks,£2.80,6.0,App
+B026,2024-03-08,City Centre ,Cappuccino,Hot drinks,£3.30,2.0,Cash
+B030,2024-03-08,Station,Tea,Hot drinks,£2.20,3.0,Card
+B032,2024-03-08,University,Cappuccino,Hot drinks,£3.30,2.0,App
+B037,2024-03-08,Station,Flat White,Hot drinks,£3.50,2.0,Card
+B044,2024-03-08,University,Croissant,Food,£2.60,1.0,Cash
+B044,2024-03-08,University,Croissant,Food,£2.60,1.0,Cash
+B046,2024-03-08,City Centre,Smoothie,Cold drinks,£4.20,1.0,Cash
+B048,2024-03-08,City Centre,Muffin,Food,£2.90,2.0,Cash
+B051,2024-03-08,City Centre,Croissant,Food,£2.60,1.0,Card
+B052,2024-03-08,City Centre,Flat White,Hot drinks,£3.50,4.0,Card
+B053,2024-03-08, University,Hot Chocolate,Hot drinks,£3.20,2.0,Card
+B054,2024-03-08,Station,Flat White,Hot drinks,£3.50,2.0,Cash
+B055,2024-03-08,station,Sandwich,Food,£4.80,1.0,Card
+B062,2024-03-08,city centre,Muffin,Food,£2.90,,Cash
+B022,2024-03-09,University,Hot Chocolate,Hot drinks,£3.20,1.0,Cash
+B022,2024-03-09,University,Hot Chocolate,Hot drinks,£3.20,1.0,Cash
+B031,2024-03-09,Station,Iced Latte,Cold drinks,£3.70,2.0,Cash
+B035,2024-03-09,university,Cappuccino,Hot drinks,£3.30,1.0,App
+B041,2024-03-09,City Centre,Iced Latte,Cold drinks,£3.70,6.0,Card
+B047,2024-03-09,University,Flat White,Hot drinks,£3.50,4.0,Card
+B063,2024-03-09,University,Tea,Hot drinks,£2.20,0.0,App
+B018,2024-03-10,university,Flat White,Hot drinks,£3.50,2.0,Cash
+B020,2024-03-10, University,Flat White,Hot drinks,£3.50,1.0,Card
+B033,2024-03-10,City Centre,Iced Latte,Cold drinks,£3.70,1.0,App
+B038,2024-03-10, University,Sandwich,Food,£4.80,3.0,Card
+B039,2024-03-10,City Centre,Tea,Hot drinks,£2.20,4.0,Card
+B040,2024-03-10,Station,Iced Latte,Cold drinks,£3.70,2.0,Card
+B042,2024-03-10,university,Smoothie,Cold drinks,£4.20,2.0,App
+B049,2024-03-10,Station,Croissant,Food,£2.60,1.0,Card
+B057,2024-03-10,City Centre,Americano,Hot drinks,£2.80,3.0,Cash
+B064,2024-03-10,City Centre,Smoothie,Cold drinks,£4.20,-2.0,Card
