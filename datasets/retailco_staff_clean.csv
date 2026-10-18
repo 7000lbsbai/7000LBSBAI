@@ -1,0 +1,109 @@
+employee_id,department,office,start_date,salary,hours_per_week,performance_rating
+E1001,Operations,Glasgow,2024-07-04,27500,30.0,4
+E1002,Marketing,Manchester,2024-03-21,27500,22.5,2
+E1003,Logistics,Birmingham,2015-11-25,24000,37.5,2
+E1004,Sales,London,2022-08-01,28250,37.5,4
+E1005,Marketing,Leeds,2017-02-14,39750,37.5,2
+E1006,Customer Service,Leeds,2021-05-15,23250,16.0,4
+E1007,Customer Service,Manchester,2017-11-10,26000,37.5,3
+E1008,Customer Service,Glasgow,2015-01-27,21500,30.0,4
+E1009,Sales,Manchester,2016-08-20,28000,37.5,2
+E1010,Finance,Birmingham,2017-09-10,33250,16.0,4
+E1011,Operations,Manchester,2015-12-12,28250,22.5,3
+E1012,Operations,London,2018-03-28,33000,37.5,2
+E1013,Sales,Leeds,2016-08-31,26250,37.5,5
+E1014,Sales,Birmingham,2018-10-12,32750,37.5,3
+E1015,Customer Service,Leeds,2024-08-27,21750,37.5,3
+E1016,Customer Service,Glasgow,2024-01-30,26750,37.5,3
+E1017,Customer Service,Leeds,2021-10-12,23250,37.5,4
+E1018,Operations,Manchester,2017-09-30,31000,22.5,3
+E1019,Sales,Birmingham,2014-09-12,33000,37.5,4
+E1020,Finance,Birmingham,2024-08-30,30250,37.5,3
+E1022,Marketing,London,2019-08-21,36250,30.0,4
+E1023,Marketing,Manchester,2020-06-22,28000,37.5,3
+E1024,Operations,London,2022-08-24,26000,37.5,4
+E1025,Operations,Leeds,2018-01-30,27750,37.5,3
+E1026,Finance,Manchester,2020-07-13,44500,22.5,5
+E1027,Finance,Unknown,2022-12-22,34000,37.5,2
+E1028,Marketing,London,2016-05-04,41250,37.5,3
+E1029,Operations,London,2021-06-09,30250,37.5,4
+E1030,Finance,London,2018-01-10,41750,37.5,4
+E1031,Customer Service,Manchester,2020-09-19,23500,37.5,4
+E1032,Sales,London,2016-06-24,32500,22.5,2
+E1033,Operations,Manchester,2023-10-07,26500,37.5,3
+E1034,Logistics,London,2022-12-27,25500,30.0,5
+E1035,Sales,Leeds,2017-06-26,27750,37.5,3
+E1036,Sales,London,2023-08-23,28250,37.5,4
+E1037,Finance,London,2017-05-25,40750,37.5,4
+E1038,Logistics,Glasgow,2017-09-09,27250,37.5,3
+E1039,Operations,Unknown,2016-11-11,30500,37.5,3
+E1040,Sales,Manchester,2021-08-19,33500,37.5,5
+E1041,Operations,Manchester,2018-03-07,33000,16.0,4
+E1042,Sales,Glasgow,2021-12-03,26250,16.0,4
+E1043,Marketing,Glasgow,2023-09-06,28000,37.5,5
+E1044,Operations,London,2018-01-08,29500,37.5,3
+E1045,Sales,London,2022-11-05,28750,37.5,3
+E1046,Logistics,Glasgow,2023-08-01,29250,37.5,4
+E1047,Logistics,London,2021-12-26,27500,37.5,3
+E1048,Sales,Glasgow,2017-04-29,32000,37.5,5
+E1049,Sales,Manchester,2018-02-15,30250,37.5,3
+E1050,Sales,Birmingham,2020-07-30,31750,37.5,3
+E1051,Customer Service,London,2020-01-18,26500,30.0,2
+E1052,Customer Service,London,2024-07-10,24250,37.5,3
+E1053,Customer Service,Glasgow,2015-08-26,22000,37.5,4
+E1054,Customer Service,Manchester,2014-09-05,23500,22.5,3
+E1055,Logistics,Glasgow,2024-02-26,23000,37.5,3
+E1056,Finance,Leeds,2014-08-10,41000,37.5,3
+E1057,Finance,Manchester,2024-05-17,47750,37.5,3
+E1058,Sales,Birmingham,2017-06-11,28750,22.5,5
+E1059,Operations,Manchester,2014-12-14,27250,37.5,3
+E1060,Sales,Glasgow,2020-09-06,27250,22.5,1
+E1061,Customer Service,Manchester,2022-04-01,24750,16.0,5
+E1062,Sales,Manchester,2014-04-03,28750,37.5,3
+E1063,Finance,Leeds,2016-01-30,31750,37.5,3
+E1064,Customer Service,London,2024-05-16,26250,37.5,4
+E1065,Logistics,Leeds,2023-05-23,27500,30.0,4
+E1066,Sales,Birmingham,2021-06-23,33500,30.0,5
+E1067,Operations,Leeds,2015-06-12,29250,37.5,5
+E1068,Sales,Leeds,2015-05-17,33750,37.5,2
+E1069,Operations,London,2016-02-12,34500,37.5,5
+E1070,Logistics,Manchester,2021-03-14,22750,37.5,4
+E1071,Operations,London,2021-03-06,27000,37.5,3
+E1072,Customer Service,Manchester,2014-10-09,25750,37.5,3
+E1073,Sales,London,2020-05-15,37500,37.5,2
+E1074,Sales,Unknown,2017-06-30,31000,37.5,3
+E1075,Customer Service,Glasgow,2019-11-07,24750,37.5,3
+E1076,Marketing,Unknown,2021-02-23,33500,37.5,2
+E1077,Customer Service,Leeds,2017-07-01,24500,16.0,4
+E1078,Sales,Unknown,2017-01-07,28500,37.5,4
+E1079,Logistics,Birmingham,2017-12-30,23750,30.0,3
+E1080,Sales,Glasgow,2021-09-09,31750,37.5,3
+E1081,Sales,Birmingham,2015-03-05,28000,37.5,2
+E1082,Finance,London,2016-05-03,37500,37.5,3
+E1083,Sales,Leeds,2015-10-13,33750,37.5,4
+E1084,Logistics,Glasgow,2017-02-21,27500,37.5,5
+E1085,Sales,Leeds,2019-03-11,24250,37.5,5
+E1086,Logistics,Glasgow,2020-02-24,25000,37.5,2
+E1087,Operations,Birmingham,2019-05-27,32500,37.5,3
+E1088,Sales,Birmingham,2017-01-10,29500,37.5,2
+E1089,Marketing,London,2018-02-02,42000,37.5,3
+E1090,Operations,London,2022-03-17,26500,16.0,4
+E1091,Sales,Unknown,2020-07-30,28000,37.5,3
+E1092,Sales,Manchester,2014-11-26,31750,37.5,4
+E1093,Finance,Leeds,2020-09-11,36500,37.5,3
+E1094,Sales,Glasgow,2022-08-16,30000,16.0,3
+E1095,Marketing,London,2015-11-18,32500,22.5,4
+E1096,Finance,Birmingham,2014-06-05,40250,37.5,1
+E1097,Operations,London,2014-08-29,34000,16.0,3
+E1099,Logistics,Birmingham,2019-09-12,23750,37.5,4
+E1100,Marketing,Leeds,2023-10-31,35500,37.5,2
+E1101,Marketing,Glasgow,2021-08-02,34750,37.5,4
+E1102,Marketing,Manchester,2018-03-18,39250,30.0,2
+E1103,Sales,Birmingham,2017-12-19,25000,37.5,3
+E1104,Customer Service,London,2017-11-19,30000,22.5,3
+E1105,Customer Service,Birmingham,2022-07-18,24250,30.0,4
+E1106,Finance,Glasgow,2015-04-15,35250,37.5,2
+E1107,Sales,Manchester,2019-07-21,33500,37.5,3
+E1108,Operations,Unknown,2023-03-31,24000,16.0,2
+E1109,Customer Service,Glasgow,2022-11-20,24500,37.5,2
+E1110,Operations,Leeds,2014-07-02,31750,22.5,3
